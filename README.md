@@ -68,9 +68,15 @@ Result: Congratulations! You Win! 🎉
 
 
 🔮 Future Improvements
+
 1 - Add a score counter for both player and computer.
+
 2 - Implement a Best of 5 rounds mode.
+
 3 - Add a Play Again option.
+
 4 - Display the final winner after multiple rounds.
+
 5 - Add difficulty levels.
+
 6 - Develop a graphical interface using Tkinter.
