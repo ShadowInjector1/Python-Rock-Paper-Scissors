@@ -10,16 +10,17 @@ A Python-based Rock Paper Scissors Game where players compete against the comput
 
 The computer randomly selects its choice using Python's Random Module, and the winner is determined based on the game's rules.
 
-This is my third Python project, built to practice random number selection, conditional statements, user input, and basic game logic.
+This is my third Python project, built to practice random selection, conditional statements, user input, and basic game logic.
 
 
 🚀 Features
+Random computer choice using the Random Module.
 Allows players to choose Rock, Paper, or Scissors.
-Generates a random choice for the computer.
 Determines the winner based on game rules.
 Detects draw situations when both choices are the same.
 Handles invalid user input.
 Displays the final result with a winning or losing message.
+
 
 
 🛠️ Technologies Used
@@ -45,6 +46,7 @@ Run the Python script:
 
 bash
 python main.py
+
 
 
 💻 Sample Output
