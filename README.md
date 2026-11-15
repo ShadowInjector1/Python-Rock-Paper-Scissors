@@ -13,6 +13,7 @@ The computer randomly selects its choice using Python's Random Module, and the w
 This is my third Python project, built to practice random selection, conditional statements, user input, and basic game logic.
 
 
+
 🚀 Features
 Random computer choice using the Random Module.
 Allows players to choose Rock, Paper, or Scissors.
@@ -30,6 +31,7 @@ Conditional Statements (if-elif-else)
 User Input
 String Methods
 Logical Operators
+
 
 
 📂 How to Run
@@ -64,10 +66,11 @@ Result: Congratulations! You Win! 🎉
 ===== GAME OVER =====
 
 
+
 🔮 Future Improvements
-Add a score counter for both player and computer.
-Implement a Best of 5 rounds mode.
-Add a Play Again option.
-Display the final winner after multiple rounds.
-Add difficulty levels.
-Develop a graphical interface using Tkinter.
+1 - Add a score counter for both player and computer.
+2 - Implement a Best of 5 rounds mode.
+3 - Add a Play Again option.
+4 - Display the final winner after multiple rounds.
+5 - Add difficulty levels.
+6 - Develop a graphical interface using Tkinter.
